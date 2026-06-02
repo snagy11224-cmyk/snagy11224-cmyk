@@ -14,9 +14,7 @@ Backend-focused Software Engineer with production systems experience at Noon. Ex
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=snagy11224-cmyk&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com?user=snagy11224-cmyk&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=snagy11224-cmyk&show_icons=true&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=snagy11224-cmyk&theme=dark&hide_border=false&layout=compact)
 
