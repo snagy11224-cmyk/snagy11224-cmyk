@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend-focused Software Engineer with production systems experience at Noon. Experienced in API debugging, SQL analysis, root cause investigation, and distributed systems troubleshooting. Building backend applications with Node.js, PostgreSQL, Redis, and Docker. Seeking opportunities as a Junior Backend Engineer, Software Engineer I, or SDE-I.<br>
+I'm a Backend-focused Software Engineer with production systems experience at Noon. Experienced in API debugging, SQL analysis, root cause investigation, and distributed systems troubleshooting. Building backend applications with Node.js, PostgreSQL, Redis, and Docker. Seeking opportunities as a Junior Backend Engineer, Software Engineer I, or SDE-I.<br>
 
 
 ## 🌐 Connect With Me:
